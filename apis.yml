@@ -1,0 +1,76 @@
+aid: nuro
+name: Nuro
+description: >-
+  Nuro is a Mountain View-based autonomy company that has pivoted from its
+  original autonomous-goods-delivery vehicle program (R1, R2, R3) to a
+  licensable, vehicle-agnostic autonomous driving stack. The Nuro Driver is an
+  AI-first Level 4 self-driving system, validated through 5+ years of
+  driverless deployments and more than 1.7 million autonomous miles with zero
+  at-fault incidents, paired with the Nuro Toolkit suite of supporting
+  technology. Partners and customers include Uber and Lucid (premium robotaxi
+  program with production-intent vehicles announced for CES 2026), Mercedes-
+  Benz, Toyota, Kroger, Domino's, and Walmart, with NVIDIA participation in
+  recent funding rounds. Nuro has offices in Mountain View, San Francisco,
+  Santa Clara, Las Vegas, Houston, Toronto, Washington DC, Shenzhen, Tokyo,
+  and an upcoming Munich expansion. Nuro does not publish a public developer
+  API; the Driver and Toolkit are commercialized through B2B licensing rather
+  than a self-serve developer portal.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: B2B
+tags:
+  - Autonomous Vehicles
+  - Self-Driving
+  - Robotaxi
+  - Goods Delivery
+  - Licensing
+  - Nuro Driver
+  - Nuro Toolkit
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/nuro/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://nuro.ai
+  - type: AboutUs
+    url: https://nuro.ai/about
+  - type: Newsroom
+    url: https://nuro.ai/press
+  - type: Blog
+    url: https://medium.com/nuro
+  - type: NuroDriver
+    url: https://nuro.ai/nuro-driver
+  - type: NuroToolkit
+    url: https://nuro.ai/nuro-toolkit
+  - type: Technology
+    url: https://nuro.ai/technology
+  - type: Safety
+    url: https://nuro.ai/safety
+  - type: Partners
+    url: https://nuro.ai/partners
+  - type: Careers
+    url: https://nuro.ai/careers
+  - type: Contact
+    url: https://nuro.ai/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nuro-inc
+  - type: Twitter
+    url: https://twitter.com/nuro
+  - type: YouTube
+    url: https://www.youtube.com/@nuro_ai
+integrations:
+  - name: Uber
+  - name: Lucid
+  - name: Mercedes-Benz
+  - name: Toyota
+  - name: NVIDIA
+  - name: Kroger
+  - name: Domino's
+  - name: Walmart
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
