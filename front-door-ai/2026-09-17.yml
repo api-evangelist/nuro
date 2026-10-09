@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: nuro.ai
   final_host: www.nuro.ai
-  ownership: inherited
+  ownership: own
   owner: nuro
   shares_host_with: null
-  inherited_from: www.nuro.ai
+  inherited_from: null
+  alias_of: www.nuro.ai
   verdict: scored
-  score: null
+  score: 2
+  band: 3
+  band_label: light
   host_score: 2
-  density: null
+  density: 3.97
   words: 504
   tiers:
     agentic: 0
